@@ -22,7 +22,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 320757718671360
-     1 string m_Localized = "Нова гра"
+     1 string m_Localized = "11111111"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -30,7 +30,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 320872252530688
-     1 string m_Localized = "Завантажити гру"
+     1 string m_Localized = "111111111"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
