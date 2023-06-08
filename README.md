@@ -1,1 +1,1 @@
-Ukr_Translate_Fabledom
+Ukrainian Translation Fabledom
